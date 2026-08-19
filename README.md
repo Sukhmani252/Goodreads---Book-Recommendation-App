@@ -12,7 +12,10 @@ The dataset includes 1M+ reviews from 13K+ books on goodreads.com. There are two
 I created some additional supporting tables to help users explore genres, rating distribution, and related books more effectively. 
 
 ***work_genre***— Contains work_id and genre, linking each book to its associated genres.
+
 ***ratings*** – Contains work_id, rating_category, and ratings_count
+
 ***genres*** — A separate reference table that stores the complete list of unique genres.
+
 ***similar_books*** — Contains work_id and similar_book, mapping books to related titles.
 
