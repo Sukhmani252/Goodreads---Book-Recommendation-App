@@ -26,7 +26,7 @@ The dataset includes 1M+ reviews from 13K+ books on goodreads.com. There are two
 
 
 
-<span style="color:red">RHope you enjoy the experience and find the best reads!</span>
+*Hope you enjoy the experience and find the best reads!*
 
 
 
